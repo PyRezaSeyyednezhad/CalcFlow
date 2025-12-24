@@ -1,0 +1,157 @@
+<Button>
+    padding: 5
+    spacing: 5
+    font_size: 20
+    background_normal: ""
+    # bold:True
+    color: (0, 255/255, 234/255, 1)
+    italic: True
+    size_hint: (0.2, 0.2)
+<GridLayout>
+    spacing: 4
+
+<MyLayout>
+    BoxLayout:
+        orientation: "vertical"
+        spacing: 4
+        padding: 4
+        size: root.width, root.height
+
+        TextInput:
+            id: calc_input
+            multiline: False
+            font_size: 45
+            size_hint_y: 0.15
+        GridLayout:
+            cols: 4
+            row: 6
+            Button:
+                id: percent_btn
+                text: "%"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.percent()
+            Button:
+                id: clear_btn
+                text: "C"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.clear()
+            Button:
+                id: delete_btn
+                text: u"\u00AB"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.delete()
+            Button:
+                id: para_btn
+                text: "( )"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.para()
+            Button:
+                id: percent_btn
+                text: "1/x"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.Number_Ordinal_Number()
+            Button:
+                id: clear_btn
+                text: "x^2"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.squared()
+            Button:
+                id: delete_btn
+                text: "√x"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.square_root_x()
+            Button:
+                id: para_btn
+                text: "÷"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.math_operator("/")
+
+
+            Button:
+                id: seven_btn
+                text: "7"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(7)
+            Button:
+                id: eight_btn
+                text: "8"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(8)
+            Button:
+                id: nine_btn
+                text: "9"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(9)
+            Button:
+                id: mul_btn
+                text: "X"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.math_operator("*")
+
+
+
+            Button:
+                id: four_btn
+                text: "4"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(4)
+            Button:
+                id: five_btn
+                text: "5"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(5)
+            Button:
+                id: six_btn
+                text: "6"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(6)
+            Button:
+                id: minus_btn
+                text: "-"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.math_operator("-")
+
+
+            Button:
+                id: one_btn
+                text: "1"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(1)
+            Button:
+                id: two_btn
+                text: "2"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(2)
+            Button:
+                id: three_btn
+                text: "3"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(3)
+            Button:
+                id: plus_btn
+                text: "+"
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.math_operator("+")
+
+
+            Button:
+                id: pm_btn
+                text: "+/-"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.pm()
+            Button:
+                id: zero_btn
+                text: "0"
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.add_number_to_input(0)
+            Button:
+                id: dot_btn
+                text: "."
+                background_color: (59/255, 58/255, 58/255, 1)
+                on_press: root.dot()
+            Button:
+                id: equal_btn
+                text: "="
+                background_color: (84/255, 84/255, 84/255, 1)
+                on_press: root.equal()
+                background_color: (48/255, 88/255, 176/255)
