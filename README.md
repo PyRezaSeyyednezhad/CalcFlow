@@ -85,12 +85,6 @@ python main.py
 
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
 ---
 
 
@@ -174,11 +168,5 @@ python main.py
 ```
 
 
-
----
-
-## 📄 مجوز (License)
-
-این پروژه تحت **مجوز MIT** منتشر شده است. برای جزئیات بیشتر، فایل `LICENSE` را ببینید.
 
 ---
