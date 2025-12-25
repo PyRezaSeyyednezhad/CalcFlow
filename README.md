@@ -1,1 +1,141 @@
 # CalcFlow
+
+## 🚀 About the Project
+
+**CalcFlow** is a modern and responsive calculator application built using the **Kivy** framework in Python. It provides all the essential arithmetic operations with a sleek, easy-to-use graphical user interface.
+
+---
+
+## ✨ Features
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Clear/Reset Functionality
+* Responsive GUI
+
+---
+
+## 📸 Screenshots
+
+Here are a few screenshots of the CalcFlow application:
+
+---
+
+## 🛠️ Installation
+
+To set up CalcFlow on your local machine, follow these steps:
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/YourUsername/CalcFlow.git
+cd CalcFlow
+
+```
+
+
+2. **Create and activate a virtual environment** (recommended):
+```bash
+python -m venv venv
+# On Windows
+venv\Scripts\activate
+# On Linux/macOS
+source venv/bin/activate
+
+```
+
+
+3. **Install the requirements:**
+```bash
+pip install -r requirements.txt
+
+```
+
+
+4. **Run the application:**
+```bash
+python main.py
+
+```
+
+
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+
+---
+---
+
+
+## 🚀 درباره پروژه
+
+**CalcFlow** یک برنامه ماشین حساب مدرن و واکنش‌گرا است که با استفاده از فریم‌ورک **Kivy** در پایتون ساخته شده است. این برنامه تمام عملیات‌های ضروری حسابی را با یک رابط کاربری گرافیکی زیبا و آسان ارائه می‌دهد.
+
+---
+
+## ✨ امکانات
+
+* جمع
+* تفریق
+* ضرب
+* تقسیم
+* عملکرد پاک کردن/بازنشانی
+* رابط کاربری گرافیکی واکنش‌گرا
+
+---
+
+## 📸 تصاویر صفحه (Screenshots)
+
+در اینجا چند تصویر از برنامه CalcFlow مشاهده می‌کنید:
+
+---
+
+## 🛠️ نصب و راه‌اندازی
+
+برای راه‌اندازی CalcFlow بر روی سیستم محلی خود، مراحل زیر را دنبال کنید:
+
+1. **کلون کردن مخزن (Repository):**
+```bash
+git clone https://github.com/YourUsername/CalcFlow.git
+cd CalcFlow
+
+```
+
+
+2. **ایجاد و فعال‌سازی محیط مجازی** (توصیه می‌شود):
+```bash
+python -m venv venv
+# در ویندوز
+venv\Scripts\activate
+# در لینوکس/مک‌اواس
+source venv/bin/activate
+
+```
+
+
+3. **نصب پیش‌نیازها:**
+```bash
+pip install -r requirements.txt
+
+```
+
+
+4. **اجرای برنامه:**
+```bash
+python main.py
+
+```
+
+
+
+---
+
+## 📄 مجوز (License)
+
+این پروژه تحت **مجوز MIT** منتشر شده است. برای جزئیات بیشتر، فایل `LICENSE` را ببینید.
+
+---
