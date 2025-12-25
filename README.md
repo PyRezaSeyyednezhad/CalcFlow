@@ -6,6 +6,14 @@
 
 ---
 
+## 🖼️ Cover
+
+<p align="center">
+  <img src="Shots/Cover.jpg" width="700">
+</p>
+
+---
+
 ## ✨ Features
 
 * Addition
@@ -20,6 +28,14 @@
 ## 📸 Screenshots
 
 Here are a few screenshots of the CalcFlow application:
+<p align="center">
+  <img src="Shots/main-size.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Shots/fullscreen.png" width="700">
+</p>
+
 
 ---
 
@@ -76,6 +92,11 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 **CalcFlow** یک برنامه ماشین حساب مدرن و واکنش‌گرا است که با استفاده از فریم‌ورک **Kivy** در پایتون ساخته شده است. این برنامه تمام عملیات‌های ضروری حسابی را با یک رابط کاربری گرافیکی زیبا و آسان ارائه می‌دهد.
 
 ---
+## 🖼️ تصویر کاور
+
+<p align="center">
+  <img src="Shots/Cover.jpg" width="700">
+</p>
 
 ## ✨ امکانات
 
@@ -91,6 +112,13 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 ## 📸 تصاویر صفحه (Screenshots)
 
 در اینجا چند تصویر از برنامه CalcFlow مشاهده می‌کنید:
+<p align="center">
+  <img src="Shots/main-size.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Shots/fullscreen.png" width="700">
+</p>
 
 ---
 
