@@ -26,8 +26,9 @@
 ---
 
 ## 🐍 Python Version Compatibility
-✅ This project has been tested and verified with Python 3.10 and works reliably with this version.
-⚠️ Using newer or older Python versions may cause compatibility issues with Kivy.
+
+* ✅ This project has been tested and verified with Python 3.10 and works reliably with this version.
+* ⚠️ Using newer or older Python versions may cause compatibility issues with Kivy.
 
 ---
 
@@ -116,8 +117,9 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 ---
 
 ## 🐍 سازگاری نسخه پایتون
-✅ این پروژه با Python نسخه 3.10 تست شده و به‌صورت پایدار اجرا می‌شود.
-⚠️ استفاده از نسخه‌های جدیدتر یا قدیمی‌تر پایتون ممکن است باعث بروز مشکلات سازگاری با Kivy شود.
+
+* ✅ این پروژه با Python نسخه 3.10 تست شده و به‌صورت پایدار اجرا می‌شود.
+* ⚠️ استفاده از نسخه‌های جدیدتر یا قدیمی‌تر پایتون ممکن است باعث بروز مشکلات سازگاری با Kivy شود.
 
 
 ---
