@@ -6,6 +6,14 @@
 
 ---
 
+## 🖼️ Cover
+
+<p align="center">
+  <img src="Shots/Cover.jpg" width="700">
+</p>
+
+---
+
 ## ✨ Features
 
 * Addition
@@ -20,6 +28,14 @@
 ## 📸 Screenshots
 
 Here are a few screenshots of the CalcFlow application:
+<p align="center">
+  <img src="Shots/main-size.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Shots/fullscreen.png" width="700">
+</p>
+
 
 ---
 
